@@ -1,4 +1,4 @@
-# Software de Coleção de Música
+# Software de Coleção de Músicas
 
 ### Tecnologias
 
